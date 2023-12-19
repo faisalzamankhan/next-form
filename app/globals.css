@@ -1,0 +1,9 @@
+.container{
+ max-width: 1300px !important;
+ margin-inline: auto !important;
+ padding: 0px 20px !important;
+}
+
+.col-md-6 input{
+width: 100%;
+}

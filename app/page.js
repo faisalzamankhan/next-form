@@ -3,8 +3,8 @@ import styles from './page.module.css'
 
 export default function Home() {
   return (
- <div>
-  <h1>Hello world </h1>
+ <div className='container'>
+  <button  type="button" className="btn btn-primary">Hello world </button>
   </div>
   )
 }
